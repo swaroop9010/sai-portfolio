@@ -1,0 +1,34 @@
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  color: #333;
+}
+header, section, footer {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+header {
+  background: #f4f4f4;
+  text-align: center;
+}
+.links a {
+  margin: 0 10px;
+  text-decoration: none;
+}
+button {
+  margin-top: 10px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+.dark-theme {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+.dark-theme header {
+  background-color: #1e1e1e;
+}
